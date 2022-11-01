@@ -3,7 +3,7 @@
 <suite name="Regression Test" >
     <test name="Run API">
         <classes>
-            <class name="APIDemo"/>
+            <class name="LocalAPITesting"/>
         </classes>
     </test>
 </suite>
